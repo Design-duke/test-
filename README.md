@@ -34,19 +34,20 @@ const Page = () => {
     {
       id: '1',
       name: 'foo',
-      url: 'https://www.super-hobby.com/zdjecia/7/9/3/29984_2_tru01050_15.jpg',
+      url: 'https://gw.alipayobjects.com/mdn/rms_d212b7/afts/img/A*LlfeSa8N0WgAAAAAAAAAAABkARQnAQ'
     },
     {
       id: '2',
       name: 'foo',
-      url: 'https://www.super-hobby.com/zdjecia/2/8/3/29984_1_tru01050_12.jpg',
+      url: 'https://gw.alipayobjects.com/mdn/rms_d212b7/afts/img/A*LlfeSa8N0WgAAAAAAAAAAABkARQnAQ'
     },
     {
       id: '3',
       name: 'foo',
-      url: 'https://www.super-hobby.com/zdjecia/3/8/3/29984_1_tru01050_2.jpg',
+      url: 'https://gw.alipayobjects.com/mdn/rms_d212b7/afts/img/A*LlfeSa8N0WgAAAAAAAAAAABkARQnAQ'
     },
-  ]; // 同上面的数据
+  ];
+ // 同上面的数据
   console.log(value); // 输出用户选择图片 id。
 
   return (
@@ -59,3 +60,4 @@ const Page = () => {
 };
 
 export default Page;
+
